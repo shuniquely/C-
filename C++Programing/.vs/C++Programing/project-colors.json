@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cdb138d1-368c-43d6-a0b4-459e5f0ce756": {
+      "ProjectGuid": "cdb138d1-368c-43d6-a0b4-459e5f0ce756",
+      "DisplayName": "chapter01",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

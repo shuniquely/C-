@@ -16,16 +16,40 @@
     <Filter Include="소스 파일\02-1">
       <UniqueIdentifier>{c011135b-09dd-43f0-892d-9078eab2a82e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\02-2">
+      <UniqueIdentifier>{b53587d4-c426-4faa-95c1-b876df5998fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02-3">
+      <UniqueIdentifier>{113164d7-9fa2-4e67-a752-19e74c8deccc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02-4">
+      <UniqueIdentifier>{44d93fd3-dd58-45f7-92f1-4f9efbceb892}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="02-1\1.cpp">
+    <ClCompile Include="02-1\02-1-1.cpp">
       <Filter>소스 파일\02-1</Filter>
     </ClCompile>
-    <ClCompile Include="02-1\2.cpp">
+    <ClCompile Include="02-1\02-1-2.cpp">
       <Filter>소스 파일\02-1</Filter>
     </ClCompile>
-    <ClCompile Include="02-1\3.cpp">
+    <ClCompile Include="02-1\02-1-3.cpp">
       <Filter>소스 파일\02-1</Filter>
+    </ClCompile>
+    <ClCompile Include="02-2\02-2-1.cpp">
+      <Filter>소스 파일\02-2</Filter>
+    </ClCompile>
+    <ClCompile Include="NewDelete.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="02-3\02-3-1.cpp">
+      <Filter>소스 파일\02-3</Filter>
+    </ClCompile>
+    <ClCompile Include="02-4\02-4-1.cpp">
+      <Filter>소스 파일\02-4</Filter>
+    </ClCompile>
+    <ClCompile Include="02-4\02-4-2.cpp">
+      <Filter>소스 파일\02-4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

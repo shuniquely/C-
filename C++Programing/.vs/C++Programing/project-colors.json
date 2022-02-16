@@ -15,7 +15,12 @@
       "ProjectGuid": "c0392ad9-f3b4-4019-af21-9d1726713117",
       "DisplayName": "chapter02",
       "ColorIndex": 1
+    },
+    "ef9db359-3bd0-4640-a244-2169d0adc435": {
+      "ProjectGuid": "ef9db359-3bd0-4640-a244-2169d0adc435",
+      "DisplayName": "chapter03",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

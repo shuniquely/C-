@@ -1,3 +1,1 @@
-﻿  02-4-2.cpp
-C:\Users\shuni\Desktop\자료함\GITHUB\CPP_Programing\C++Programing\chapter02\02-4\02-4-2.cpp(9,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  chapter02.vcxproj -> C:\Users\shuni\Desktop\자료함\GITHUB\CPP_Programing\C++Programing\x64\Debug\chapter02.exe
+﻿  chapter02.vcxproj -> C:\Users\shuni\Desktop\자료함\GITHUB\CPP_Programing\C++Programing\x64\Debug\chapter02.exe

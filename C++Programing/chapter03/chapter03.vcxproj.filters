@@ -16,10 +16,24 @@
     <Filter Include="소스 파일\03-1">
       <UniqueIdentifier>{ee23c4d7-c02e-42d8-b8dd-aedacc0318ca}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\03-2">
+      <UniqueIdentifier>{5c8eaf04-5834-4c6e-b3da-ee3ceb86dd54}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="03-1\03-1-1.cpp">
       <Filter>소스 파일\03-1</Filter>
     </ClCompile>
+    <ClCompile Include="03-2\03-2 Main.cpp">
+      <Filter>소스 파일\03-2</Filter>
+    </ClCompile>
+    <ClCompile Include="03-2\03-2 Calculator.cpp">
+      <Filter>소스 파일\03-2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="03-2\03-2 Calculator.h">
+      <Filter>소스 파일\03-2</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

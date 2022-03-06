@@ -24,15 +24,24 @@
     <ClCompile Include="03-1\03-1-1.cpp">
       <Filter>소스 파일\03-1</Filter>
     </ClCompile>
-    <ClCompile Include="03-2\03-2 Main.cpp">
+    <ClCompile Include="03-2\03-2-1 Main.cpp">
       <Filter>소스 파일\03-2</Filter>
     </ClCompile>
-    <ClCompile Include="03-2\03-2 Calculator.cpp">
+    <ClCompile Include="03-2\03-2-1 Calculator.cpp">
+      <Filter>소스 파일\03-2</Filter>
+    </ClCompile>
+    <ClCompile Include="03-2\03-2-2 Main.cpp">
+      <Filter>소스 파일\03-2</Filter>
+    </ClCompile>
+    <ClCompile Include="03-2\03-2-2 Printer.cpp">
       <Filter>소스 파일\03-2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="03-2\03-2 Calculator.h">
+    <ClInclude Include="03-2\03-2-1 Calculator.h">
+      <Filter>소스 파일\03-2</Filter>
+    </ClInclude>
+    <ClInclude Include="03-2\03-2-2 Printer.h">
       <Filter>소스 파일\03-2</Filter>
     </ClInclude>
   </ItemGroup>

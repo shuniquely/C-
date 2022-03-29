@@ -1,3 +1,1 @@
-﻿  03-2-2 Printer.cpp
-C:\Users\shuni\Desktop\자료함\GITHUB\CPP_Programing\C++Programing\chapter03\03-2\03-2-2 Printer.cpp(9,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  chapter03.vcxproj -> C:\Users\shuni\Desktop\자료함\GITHUB\CPP_Programing\C++Programing\x64\Debug\chapter03.exe
+﻿  chapter03.vcxproj -> C:\Users\shuni\Desktop\자료함\GITHUB\CPP_Programing\C++Programing\x64\Debug\chapter03.exe

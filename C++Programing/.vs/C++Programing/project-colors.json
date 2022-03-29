@@ -20,7 +20,12 @@
       "ProjectGuid": "ef9db359-3bd0-4640-a244-2169d0adc435",
       "DisplayName": "chapter03",
       "ColorIndex": 2
+    },
+    "462355e4-f91a-4622-9821-d4e70c3ea700": {
+      "ProjectGuid": "462355e4-f91a-4622-9821-d4e70c3ea700",
+      "DisplayName": "chapter04",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

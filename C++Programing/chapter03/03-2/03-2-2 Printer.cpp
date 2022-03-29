@@ -12,4 +12,4 @@ void Printer::SetString(const char* str)
 void Printer::ShowString()
 {
 	cout << str_save << endl;
-}
+}`												
